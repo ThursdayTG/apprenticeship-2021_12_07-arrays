@@ -5,4 +5,4 @@ The educational part, in which we were just introduced to arrays, was completely
 
 Unfortunately, as of 2022-01-31, I have not actually gotten into and practiced with arrays sufficiently to understand them properly, so I have yet to repeat that process. I hope it won't take too long for me to start a project, be it for leaisure or in the context of my apprenticeship, in which I will have to deal with arrays more thoroughly than I did so far.
 
-I put the "edu" & "task" parts in two separate branches, because I honestly have no idea how else to manage this properly at this point.
+I put the "edu" & "task" parts in two separate branches and won't post any releases, and instead I just upload all the files to the branches and let that be it. If viewing older builds is desired, of course Git stores the differences between all commits, so this is not an issue. I simply have no idea how else to manage this properly at this point.
